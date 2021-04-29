@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "135126639208",
+    "firebase_url": "https://facedetectionusingcamera.firebaseio.com",
+    "project_id": "facedetectionusingcamera",
+    "storage_bucket": "facedetectionusingcamera.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135126639208:android:c90c5557e231977a7111dd",
+        "android_client_info": {
+          "package_name": "com.facedetectionusingcamera"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135126639208-lqv9vmqnlrvkeabsvhk03baiknlf7eaf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.facedetectionusingcamera",
+            "certificate_hash": "85ac16a3b2d3054faff9e5f05f7fb52cdae3bf7c"
+          }
+        },
+        {
+          "client_id": "135126639208-rhck105snmsilo4ei94j18a3m9ciruq7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnOhL9M93sshTvros4Vpra_OxFOGq0C_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "135126639208-rhck105snmsilo4ei94j18a3m9ciruq7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
